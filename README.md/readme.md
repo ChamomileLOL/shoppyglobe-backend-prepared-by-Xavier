@@ -1,5 +1,8 @@
 # ShoppyGlobe Backend API
 
+> Note: Make sure you're inside the project root folder before running this command.
+> node src/server.js
+
 What is this project?
 This project is a backend API for an online shopping system called ShoppyGlobe.
 It is made using Node.js and Express (which are tools to build web servers) and uses MongoDB Atlas (a cloud database) to store data.
