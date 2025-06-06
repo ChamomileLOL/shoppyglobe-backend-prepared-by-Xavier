@@ -1,7 +1,18 @@
 # ShoppyGlobe Backend API
 
-> Note: Make sure you're inside the project root folder before running this command.
-> node src/server.js
+Kindly extract the folder.
+
+then open VS Code terminal.
+
+Kindly open this folder in VS Code terminal then 
+
+right click on src or server.js (left side) under shoppyglobe_backend then open it with "Open in Integrated Terminal" by specifically right clicking on src or server.js
+
+The Terminal must be like:
+
+PS C:\Users\Acer\Documents\ShoppyGlobe Backend using Node, express and MongoDB\shoppyglobe-backend\src> node server.js
+MongoDB connected successfully
+Server is running on http://localhost:5000
 
 What is this project?
 This project is a backend API for an online shopping system called ShoppyGlobe.
